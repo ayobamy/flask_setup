@@ -167,3 +167,20 @@ chmod +x setup_script.sh
 - Keep SECRET_KEY secure and unique per environment
 - Review and update .gitignore as needed
 - Maintain documentation in docs/ directory
+
+## Contributing
+
+To contribute to this script:
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request with your changes
+4. Include Documentation updates
+
+## Support
+
+If you have any questions, feedback, or need assistance, please feel free to contact me:
+
+**Email:** ayobamyahmed@gmail.com
+
+**Twitter:** https://x.com/ahmed_olawale1
