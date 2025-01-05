@@ -1,4 +1,4 @@
-# Flask Application Setup Script
+# Flask App Setup Script
 
 ## Overview
 This Bash script automates the setup of a Flask application with a comprehensive project structure following Python best practices. The script creates a complete development environment, including directory structure, virtual environment, basic templates, and configuration files.
